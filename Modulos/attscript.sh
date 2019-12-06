@@ -30,7 +30,7 @@ echo " "
 fun_atts () {
   [[ -e /home/versao ]] && rm /home/versao
   [[ -e /tmp/att ]] && rm /tmp/att
-	wget -c -P /home https://raw.githubusercontent.com/alissonlauffer/SSHPLUS-MANAGER-FREE/master/versao
+	wget -c -P /home https://raw.githubusercontent.com/ZangadoOficial/ZangadoOficial/master/versao
 	[[ -f "/home/versao" ]] && mv /home/versao /tmp/att
 	[[ ! -e /bin/versao ]] && rm -rf /bin/menu
 } > /dev/null 2>&1
@@ -64,7 +64,7 @@ vrs2=$(sed -n '1 p' /tmp/att | sed -e 's/[^0-9]//ig')
   echo -ne "  \033[1;32mDESEJA ATUALIZAR \033[1;31m? \033[1;33m[s/n]:\033[1;37m "; read res
   if [[ "$res" = s || "$res" = S ]];then
     echo -e "\n\033[1;32m  INICIANDO ATUALIZACAO..."
-    wget https://raw.githubusercontent.com/alissonlauffer/SSHPLUS-MANAGER-FREE/master/Plus > /dev/null 2>&1
+    wget https://raw.githubusercontent.com/ZangadoOficial/ZangadoOficial/master/Plus > /dev/null 2>&1
     chmod +x Plus
     ./Plus
     clear

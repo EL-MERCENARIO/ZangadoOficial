@@ -1,6 +1,6 @@
 # SSHPLUS Manager Mod
 
-![logo](https://raw.githubusercontent.com/alissonlauffer/SSHPLUS-MANAGER-FREE/master/SSHPLUS_MANAGER.png)
+![logo](https://raw.githubusercontent.com/ZangadoOficial/ZangadoOficial/master/SSHPLUS_MANAGER.png)
 
 ## Alterações do mod
 
@@ -20,7 +20,7 @@
 ## Instalação
 
 ```bash
-wget https://raw.githubusercontent.com/alissonlauffer/SSHPLUS-MANAGER-FREE/master/Plus && bash Plus
+wget https://raw.githubusercontent.com/ZangadoOficial/ZangadoOficial/master/Plus && bash Plus
 ```
 
 ================================================================================
@@ -30,7 +30,7 @@ wget https://raw.githubusercontent.com/alissonlauffer/SSHPLUS-MANAGER-FREE/maste
 ## Instalação
 
 ```bash
-wget https://raw.githubusercontent.com/alissonlauffer/SSHPLUS-MANAGER-FREE/master/Install/tcptweaker.sh && bash tcptweaker.sh
+wget https://raw.githubusercontent.com/ZangadoOficial/ZangadoOficial/master/Install/tcptweaker.sh && bash tcptweaker.sh
 ```
 
 ============================
@@ -39,7 +39,7 @@ wget https://raw.githubusercontent.com/alissonlauffer/SSHPLUS-MANAGER-FREE/maste
 ## Instalação
 
 ```bash
-wget https://raw.githubusercontent.com/alissonlauffer/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/Panelweb.sh && bash Panelweb.sh
+wget https://raw.githubusercontent.com/ZangadoOficial/ZangadoOficial/master/Install/Panel_Web/Panelweb.sh && bash Panelweb.sh
 ```
 
 ============================
@@ -48,7 +48,7 @@ wget https://raw.githubusercontent.com/alissonlauffer/SSHPLUS-MANAGER-FREE/maste
 ## Instalação
 
 ```bash
-wget https://raw.githubusercontent.com/alissonlauffer/SSHPLUS-MANAGER-FREE/master/Install/IP && bash IP
+wget https://raw.githubusercontent.com/ZangadoOficial/ZangadoOficial/master/Install/IP && bash IP
 ```
 
 # Footer do repo original
